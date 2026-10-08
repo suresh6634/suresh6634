@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌐 Currently Exploring: SAP S/4 HANA & Python — the dynamic duo for powerful enterprise solutions and coding magic!<br>🤝 Collab-Ready: Always excited to connect and create something impactful together.<br>📚 Learning Journey: Diving into Python and React.js — building toward full-stack expertise!<br>🧑‍💻 Ask Me About: Anything tech or "just me" — I’m up for it!<br>🎉 Fun Fact: Did you know? GitHub, beyond being a code haven, hosts over 200 million repositories! It's where ideas from around the world evolve into groundbreaking projects.
-https://github.com/Mak5er/Mak5er/blob/main/assets/github-snake.svg
+![Snake](https://github.com/Mak5er/Mak5er/blob/main/assets/github-snake.svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manickam-suresh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/suresh_m) 
